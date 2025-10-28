@@ -1,0 +1,16 @@
+{
+  "name": "openai-chatgpt-cli-wrapper",
+  "version": "1.0.0",
+  "description": "OpenAI ChatGPT CLI wrapper in Node.js para hindi bistado ng boss mo na nagcha-chat ka sa work.",
+  "type": "module",
+  "main": "wrapper.js",
+  "scripts": {
+    "start": "node wrapper.js"
+  },
+  "dependencies": {
+    "openai": "^4.0.0",
+    "dotenv": "^17.2.3"
+  },
+  "author": "Ron Penones",
+  "license": "Para sa lahat, para sa bayan."
+}
