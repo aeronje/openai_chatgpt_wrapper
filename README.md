@@ -19,7 +19,7 @@ Hello Bes! Kung timawa vibes ka and subtly buraot huwag mo na ituloy. Ayoko lang
 
 **Bes, nagbilin na ako sa iyo sabi ko sa iyo huwag mong susubukan kung purdoy ka naman, ikaw bahala sinasabi ko sa iyo.**
 
-**If you are using Windows, [please make sure to install git](https://aeronjegitsetup.vercel.app/](https://github.com/aeronje/git_setup/blob/main/README.md)**
+**If you are using Windows, [please make sure to install git](https://github.com/aeronje/git_setup/blob/main/README.md)**
 
 1. Clone this repository using terminal or Powershell.
    ```
@@ -30,7 +30,7 @@ Hello Bes! Kung timawa vibes ka and subtly buraot huwag mo na ituloy. Ayoko lang
 ```
 cd openai_chatgpt_wrapper
 ```
-3. [Install Chocolatey if using Winndows](https://github.com/aeronje/chocolatey_setup)
+3. [Install Chocolatey if you are using Winndows, proceed to step 4 if you are using Linux](https://github.com/aeronje/chocolatey_setup)
 
 4. Run the following commands.
 
@@ -84,7 +84,7 @@ nvm -v
 ```
 npm install openai dotenv
 ```
-5. Run the wrapper.js using the same terminal from Step 1.
+5. Run the wrapper.js from same terminal from Step 1, just copy the command below.
 ```
 npm start
 ```  
