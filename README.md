@@ -32,7 +32,7 @@ cd openai_chatgpt_wrapper
 ```
 3. [Install Chocolatey if you are using Winndows, proceed to step 4 if you are using Linux](https://github.com/aeronje/chocolatey_setup)
 
-4. Run the following commands.
+4. Run the following commands from same terminal in Step 1.
 
 **For Windows**
 ```
@@ -84,7 +84,7 @@ nvm -v
 ```
 npm install openai dotenv
 ```
-5. Run the wrapper.js from same terminal from Step 1, just copy the command below.
+5. Run the wrapper.js from same terminal in Step 1.
 ```
 npm start
 ```  
